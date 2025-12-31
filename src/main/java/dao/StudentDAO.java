@@ -14,7 +14,7 @@ public class StudentDAO {
 	private static final String URL =
 			"jdbc:mysql://localhost:3306/student_dbs?useSSL=false&serverTimezone=UTC";
 
-    private String jdbcUsername = "root";
+    private String jdbcUsername = "";
     private String jdbcPassword = "";
 
  
