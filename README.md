@@ -41,23 +41,6 @@ HTML
 
 Apache Tomcat Server
 
-📂 Project Structure
-Student-Registration-System
-│
-├── src/
-│ └── main/
-│ ├── java/
-│ │ └── com/example/servlet/
-│ │ ├── RegisterStudentServlet.java
-│ │ └── ShowAllStudentsServlet.java
-│ └── webapp/
-│ ├── register.html
-│ ├── students.jsp
-│ └── WEB-INF/web.xml
-│
-├── lib/ (JDBC Driver)
-└── README.md
-
 
 🔄 Application Flow
 1️⃣ Student Registration (POST /register)
